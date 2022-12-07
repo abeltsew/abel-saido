@@ -1,0 +1,14 @@
+#title {
+  text-align: center;
+}
+
+#image {
+  align-items: center;
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
